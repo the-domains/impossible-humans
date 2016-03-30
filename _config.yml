@@ -1,7 +1,7 @@
 name: Impossible Humans
 favicon: null
-layout_spectrum: 0.5247200902085751
-typography_spectrum: 0.6996690698433667
+layout_spectrum: 0.74639
+typography_spectrum: 0.58634
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.03677552682347596
-  lightness: 0.2219817906152457
-  saturation: 0.12209490709938109
+    - '#404040'
+    - '#67738c'
+    - '#674a52'
+    - '#a6a6a6'
+    - '#818181'
+  brandStrength: 0.125
+  lightness: 0.25
+  saturation: 0.5
   rhythmicContrast: 0.26391991158016026
 purpose: []
