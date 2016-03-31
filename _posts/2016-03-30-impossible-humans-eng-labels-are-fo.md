@@ -1,14 +1,10 @@
 ---
-author:
-  - name: impossiblehumans
-    url: 'http://impossiblehumans.tumblr.com'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://tumblr.com'
-  name: Tumblr
-  favicon: 'http://33.media.tumblr.com/avatar_ce2f8d925ce0_128.png'
-  domain: impossiblehumans.tumblr.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://impossiblehumans.tumblr.com/post/134115009370/impossible-humans-eng-labels-are-for-cans'
+inLanguage: en
+starred: false
 keywords:
   - impossible
   - impossiblehumans
@@ -20,8 +16,14 @@ keywords:
   - curated
   - selection
   - project
-description: 'Impossible Humans - ENG "Labels are for cans, not people" (Andy Warhol) Impossible Humans is a new kind of photographic event. The main goal of the Impossible Humans project is to focus on the single person in order to enhance uniqueness and singularity, harmoniously placing the subject in her/his own environment, following the key component of the mindset that carried the European culture from the Middle Ages to Renaissance blossoming.'
-inLanguage: en
+description: Impossible Humans is a New Era Museum photo action focused on partraits of common people.
+datePublished: '2016-03-31T12:29:42.175Z'
+dateModified: '2016-03-31T12:29:41.422Z'
+author:
+  - name: impossiblehumans
+    url: 'http://impossiblehumans.tumblr.com'
+    avatar: {}
+related: []
 app_links:
   - url: 'tumblr://x-callback-url/blog?blogName=impossiblehumans&postID=134115009370'
     type: ios
@@ -56,17 +58,19 @@ app_links:
     package: '305343404'
     namespace: google
     type: ios
-isBasedOnUrl: 'http://impossiblehumans.tumblr.com/post/134115009370/impossible-humans-eng-labels-are-for-cans'
 title: 'Impossible Humans - ENG "Labels are fo...'
-datePublished: '2016-03-30T18:40:21.509Z'
-dateModified: '2016-03-30T18:39:53.030Z'
 sourcePath: _posts/2016-03-30-impossible-humans-eng-labels-are-fo.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Tumblr
+  domain: impossiblehumans.tumblr.com
+  url: 'http://tumblr.com'
+  favicon: 'http://33.media.tumblr.com/avatar_ce2f8d925ce0_128.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Impossible Humans - ENG "Labels are fo...</h1><p>Impossible Humans - ENG "Labels are for cans, not people" (Andy Warhol) Impossible Humans is a new kind of photographic event. The main goal of the Impossible Humans project is to focus on the single person in order to enhance uniqueness and singularity, harmoniously placing the subject in her/his own environment, following the key component of the mindset that carried the European culture from the Middle Ages to Renaissance blossoming.</p><img src="http://40.media.tumblr.com/fdf05255637726afc70ac784bf16b7a0/tumblr_nyiq2sWG0P1uf13h7o1_1280.jpg" /></article>
+<article style=""><h1>Impossible Humans - ENG "Labels are fo...</h1><p>Impossible Humans - ENG "Labels are for cans, not people" (Andy Warhol) Impossible Humans is a new kind of photographic event. The main goal of the Impossible Humans project is to focus on the single person in order to enhance uniqueness and singularity, harmoniously placing the subject in her/his own environment, following the key component of the mindset that carried the European culture from the Middle Ages to Renaissance blossoming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/264648158d9c0620ecbcf12b66a2e6f8ffb20b5f.jpg" /></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24d551d6-1b51-460a-9fab-f05a8110034d.jpg)
