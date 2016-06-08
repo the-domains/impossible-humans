@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://neweramuseum.org'
   name: The New Era Museum
-  favicon: 'http://neweramuseum.org/favicon.ico'
   domain: neweramuseum.org
+  url: 'http://neweramuseum.org'
+  favicon: 'http://neweramuseum.org/favicon.ico'
 keywords:
   - v-ex
   - bigiariniapril
@@ -17,19 +17,24 @@ keywords:
   - humansandrea
   - oniric
   - robertis
-description: 'What follows is a selection of the best shots during the 7th edition of Vittorio Veneto Film Festival.A fantastic collection of real Impossible, Genial, Artistic and Special Humans that I have had the honor to know and photograph. Thank you very much. Andrea Bigiarini "Be Human. Be Unexpected"'
+description: >-
+  What follows is a selection of the best shots during the 7th edition of
+  Vittorio Veneto Film Festival.A fantastic collection of real Impossible,
+  Genial, Artistic and Special Humans that I have had the honor to know and
+  photograph. Thank you very much. Andrea Bigiarini "Be Human. Be Unexpected"
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://neweramuseum.org/words/2016/4/24/impossible-humans-vittorio-veneto-film-festival-selection'
+isBasedOnUrl: >-
+  http://neweramuseum.org/words/2016/4/24/impossible-humans-vittorio-veneto-film-festival-selection
 title: Impossible Humans Vittorio Veneto Film Festival Selection
-datePublished: '2016-04-24T21:28:02.658Z'
-dateModified: '2016-04-24T21:27:49.652Z'
-starred: false
+datePublished: '2016-06-08T10:34:20.487Z'
+dateModified: '2016-06-08T10:34:20.145Z'
 sourcePath: _posts/2016-04-24-impossible-humans-vittorio-veneto-film-festival-selection.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
