@@ -68,10 +68,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/kiyNPSvz4jk'
 title: Impossible Humans - The 4th Wave - Spring 2016
-datePublished: '2016-06-07T20:28:00.126Z'
-dateModified: '2016-06-07T20:27:55.361Z'
-starred: false
+datePublished: '2016-06-08T10:34:16.312Z'
+dateModified: '2016-06-08T10:34:15.081Z'
 sourcePath: _posts/2016-06-07-impossible-humans-the-4th-wave-spring-2016.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
